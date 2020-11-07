@@ -13,6 +13,9 @@ Scripts and Files
 **Hashlib**
 ```pip install hashlib ```
 
+**Requests**
+```pip install requests```
+
 **BeautifulSoup4**
 ```sudo apt-get install python-bs4 ``` (Python 2)
 ```sudo apt-get install python3-bs4``` (Python 3)
