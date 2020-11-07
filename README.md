@@ -6,7 +6,7 @@ Scripts and Files
 *	<strong>Hashlib</strong>						<i>https://docs.python.org/3/library/hashlib.html</i>
 *	<strong>Requests</strong>						<i>https://requests.readthedocs.io/en/master/</i>
 *	<strong>BeautifulSoup4</strong>			<i>https://www.crummy.com/software/BeautifulSoup/bs4/doc/<i>
-* <strong>lxml</strong>								<i>https://lxml.de/</i>
+* <strong>lxml</strong>								<i>https://lxml.de/ </i>
 
 <h2>Installation</h2>
 
