@@ -9,18 +9,16 @@ Scripts and Files
 * <strong>lxml</strong>								<i>https://lxml.de/</i>
 
 <h2>Installation</h2>
-```
-pip3 install hashlib
-```
 
+**Hashlib**
+```pip install hashlib ```
 
-
-* **BeautifulSoup4**
+**BeautifulSoup4**
 ```sudo apt-get install python-bs4 ``` (Python 2)
 ```sudo apt-get install python3-bs4``` (Python 3)
 
 
-* **lxml**
+**lxml**
 ```sudo apt-get install python3-lxml```/
 ```pip install lxml```
 
