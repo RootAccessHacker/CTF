@@ -11,18 +11,18 @@ Scripts and Files
 <h2>Installation</h2>
 
 **Hashlib**
-```pip install hashlib ```
+```bash pip install hashlib ```
 
 **Requests**
-```pip install requests```
+```bash pip install requests```
 
 **BeautifulSoup4**
-```sudo apt-get install python-bs4 ``` (Python 2)
-```sudo apt-get install python3-bs4``` (Python 3)
+```bash sudo apt-get install python-bs4 ``` (Python 2)
+```bash sudo apt-get install python3-bs4``` (Python 3)
 
 
 **lxml**
-```sudo apt-get install python3-lxml```/
-```pip install lxml```
+```bash sudo apt-get install python3-lxml```/
+```bash pip install lxml```
 
 
