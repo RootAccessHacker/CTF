@@ -25,8 +25,8 @@ Scripts and Files
 
 **lxml**
 ```bash
- sudo apt-get install python3-lxml
- ```/
+sudo apt-get install python3-lxml
+```
 ```bash pip install lxml```
 
 
