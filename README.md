@@ -12,20 +12,20 @@ Scripts and Files
 
 Hashlib
 ```bash
-pip install hashlib
+$ pip install hashlib
 ```
 
 Requests
 ```bash
-pip install requests
+$ pip install requests
 ```
 
-BeautifulSoup4
+BeautifulSoup4 (Python 2)
 ```bash
 $ sudo apt-get install python-bs4
-``` (Python 2)
+```
 
-Python 3
+BeautifulSoup4 (Python 3)
 ```bash
 $ sudo apt-get install python3-bs4
 ```
