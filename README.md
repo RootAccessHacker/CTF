@@ -18,11 +18,15 @@ Scripts and Files
 
 **BeautifulSoup4**
 ```bash sudo apt-get install python-bs4 ``` (Python 2)
-```bash sudo apt-get install python3-bs4``` (Python 3)
+```bash
+ sudo apt-get install python3-bs4
+ ``` (Python 3)
 
 
 **lxml**
-```bash sudo apt-get install python3-lxml```/
+```bash
+ sudo apt-get install python3-lxml
+ ```/
 ```bash pip install lxml```
 
 
